@@ -23,3 +23,10 @@ You can get v0.91 of the app [here][4].
 [2]: <https://github.com/imshyam/mintube/tree/8f7f06421406750fcfdb1fa71d9d6eaf30d0eba8>
 [3]: <https://github.com/imshyam/mintube/tree/c886f98e8d989ed926798c3d0f496e7ff4fa6ce0>
 [4]: <https://drive.google.com/open?id=0Bx43MGCMuCJcb0c5cVR0UzZTSm8>
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
